@@ -1,0 +1,10 @@
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/bin/Debug/ProjectCsharp.exe.config
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/bin/Debug/ProjectCsharp.exe
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/bin/Debug/ProjectCsharp.pdb
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/obj/Debug/ProjectCsharp.csproj.CoreCompileInputs.cache
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/obj/Debug/ProjectCsharp.exe
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/obj/Debug/ProjectCsharp.pdb
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/bin/Debug/MySql.Data.dll
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/obj/Debug/ProjectCsharp.csprojResolveAssemblyReference.cache
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/obj/Debug/ProjectCsharp.Properties.Resources.resources
+/Users/thibault/Documents/Projet_c#/ProjectCsharp/Master/ProjectCsharp/ProjectCsharp/obj/Debug/ProjectCsharp.csproj.GenerateResource.Cache
